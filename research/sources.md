@@ -143,17 +143,17 @@ Experts were selected based on:
 ---
 
 ## Data Collection Plan
-*   **LinkedIn Posts:** Manual collection into individual .md files per expert.
-*   **YouTube Transcripts:** URL cataloging and transcript extraction.
-*   **Other:** Newsletters, podcasts, and blog posts.
+- **LinkedIn Posts:** Manual collection into individual .md files per expert.
+- **YouTube Transcripts:** URL cataloging and transcript extraction.
+- **Other:** Newsletters, podcasts, and blog posts.
 
 ---
 
 ## Top 5 Experts (Summary)
-*   **Lily Ray:** Focuses on spam fighting in AI search and conversion tracking via tools like Gumshoe AI.
-*   **Marie Haynes:** Expert on Google's Open Knowledge Format (OKF) and AI search visibility.
-*   **Glenn Gabe:** Analyzes AI search traffic patterns and GSC data for broad core updates.
-*   **Rand Fishkin:** Tracks AI tool adoption trends (Semrush, SparkToro) and impact on brand visibility.
-*   **Dana DiTomaso:** Pioneer in GA4 AI tracking and cross-channel marketing strategy.
+- **Lily Ray:** Focuses on spam fighting in AI search and conversion tracking via tools like Gumshoe AI.
+- **Marie Haynes:** Expert on Google's Open Knowledge Format (OKF) and AI search visibility.
+- **Glenn Gabe:** Analyzes AI search traffic patterns and GSC data for broad core updates.
+- **Rand Fishkin:** Tracks AI tool adoption trends (Semrush, SparkToro) and impact on brand visibility.
+- **Dana DiTomaso:** Pioneer in GA4 AI tracking and cross-channel marketing strategy.
 
 **Note:** This is a living document; data collection is ongoing as of June 16, 2026. Originally started with 10 core experts and expanded to 13 based on additional high-value sources discovered during research.
