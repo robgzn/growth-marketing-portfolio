@@ -138,6 +138,73 @@ Experts were selected based on:
 
 ---
 
+## Collected Content
+
+### Top 5 Experts: LinkedIn Posts + YouTube Channels
+
+#### 1. Lily Ray
+- **LinkedIn:** https://www.linkedin.com/in/lily-ray-44755615/
+- **Recent Posts:**
+  - Spam fighting for AI search: "The next frontier of spam fighting from search/AI companies is going to hit one of the most popular page types in SEO/GEO" (438 reactions, 103 comments)
+  - Hiring at Amsive for SEO/AEO team roles
+  - Cannes Lions Semrush Villa session on AI search impact
+  - The Atlantic interview on SEO/GEO manipulation tactics
+  - Google Sheets hack: converting SEO keywords to AI prompts using =AI or =Gemini
+  - Substack launch: "A Reflection on SEO, GEO & AI Search in 2025"
+- **YouTube:** SEO conference talks and podcasts (Search Off the Record guest)
+- **Why Top 5:** VP SEO & AI Search at Amsive, #1 Most Influential SEO (USA Today 2022), launched Algorythmic consultancy, 54K+ LinkedIn followers, active on AI search/GEO topics
+
+#### 2. Marie Haynes
+- **LinkedIn:** https://www.linkedin.com/in/marie-haynes
+- **Recent Posts:**
+  - Google's Open Knowledge Format (OKF) for SEO opportunities
+  - AI Mode becoming default in Chrome, Chrome data used for ranking
+  - Weekly AI & Search News newsletter (bi-weekly posts)
+  - Google Gemini 2.5 and its impact on SEO
+  - What makes content rank in AI Overviews
+- **YouTube Channel:** https://www.youtube.com/channel/UC5JCNbPrfBAhnVG1Cfx25qA
+  - Search News You Can Use series
+  - AI in search tutorials
+- **Why Top 5:** 16 years SEO experience, Google algorithm expert, E-E-A-T pioneer, AI Search consultant, 16K+ LinkedIn followers, regular conference speaker
+
+#### 3. Glenn Gabe
+- **LinkedIn:** https://www.linkedin.com/in/glenngabe
+- **Recent Posts:**
+  - AI Search drives <1% of traffic for most sites (June 2025 data)
+  - How to track AI Search traffic in GA4 (using Dana DiTomaso's method)
+  - May 2026 Broad Core Update cases and findings
+  - AI Overview links sharing single position in GSC
+  - Substack on SEO/GEO evolution in 2025
+- **YouTube:** "SEO From The Front Lines" podcast/video series
+  - AI Search traffic analysis videos
+- **Why Top 5:** President G-Squared Interactive, Search Engine Land columnist, 20+ years SEO, active AI & SEO analyst
+
+#### 4. Rand Fishkin
+- **LinkedIn:** https://www.linkedin.com/in/randfishkin
+- **Recent Posts:**
+  - Q2 2025 State of Search Report (AI, Google, Ecommerce)
+  - "Is new SEO harder than classic SEO?" post
+  - AI search replacing 20% of traditional searches
+  - SparkToro research on brand visibility in AI
+- **YouTube:** SparkToro channel with search research videos
+- **Why Top 5:** Co-founder SparkToro, Moz co-founder, publishes State of Search reports, deep AI search research, 17+ years SEO authority
+
+#### 5. Dana DiTomaso
+- **LinkedIn:** https://www.linkedin.com/in/dditomaso
+- **Recent Posts:**
+  - GA4 AI Overview tracking (RIP May 2026 when Google killed the tracking string)
+  - AI SEO optimization webinar with Crystal Carter (Wix Studio)
+  - Analytics + SEO strategy for 2025
+  - 27 Expert Marketing Tips for 2025
+- **YouTube:** https://www.youtube.com/watch?v=ZNQ3Qpd4NzQ
+  - "This SEO Mistake Could Destroy Your Agency" (Oct 2025)
+- **Why Top 5:** President Kick Point, GA4 AI tracking pioneer, teaches at University of Alberta, 190K+ LinkedIn Learning learners, bridges analytics + SEO + AI
+
+---
+
+*Last updated: June 16, 2026*
+---
+
 ## Notes
 
 - All experts were verified as active practitioners (not just content creators)
