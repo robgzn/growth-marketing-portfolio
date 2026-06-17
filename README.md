@@ -57,7 +57,7 @@ research/
 
 - **sources.md** — Master list of 13 selected experts with full profiles and selection rationale
 - **linkedin-posts/** — 13 LinkedIn post collections, one per expert, covering 50+ posts total
-- **youtube-transcripts/** — Video transcript references and YouTube channel analysis for 5 experts
+- **youtube-transcripts/** — Video transcript references and YouTube channel analysis for all 13 experts
 - **other/** — Newsletter analysis, article summaries, and book reviews from selected experts
 
 ## Selected Topic: AI-Powered SEO Content Production
@@ -85,7 +85,7 @@ The experts in this repository were selected based on the following criteria:
 - Repository structure created with 4 directories
 - 13 experts identified and profiled in sources.md
 - 13 LinkedIn post collections created (50+ posts documented)
-- 5 YouTube transcript references compiled
+- 13 YouTube transcript references compiled (one per expert)
 - 3 newsletter/article/book analysis files created
 - Sources.md updated with complete expert profiles including Website, Recent Topics, Practicing AI SEO status, and Date Added
 
